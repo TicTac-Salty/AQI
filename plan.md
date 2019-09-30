@@ -45,6 +45,7 @@ Find some examples.
 # Design Objectives
 
 - Measure at least [PM2.5](https://www.wikiwand.com/en/Particulates)
+- AQI. *What is AQI? How is it defined? Why is it defined how it is? How to translate sensor data into AQI?*
 - Display on LCD at node (both in units of concentration and AQI)
 - Should be cost-effective and relatively easy to program.
 - Data is uploaded to cloud

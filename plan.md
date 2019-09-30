@@ -75,13 +75,13 @@ I will use the C programming language to program the Arduino.
 # Timeline
 
 - October
-  + [ ] Get started with Arduino (complete a couple of starter projects)
-  + [ ] Research and obtain necessary hardware (e.g., sensors, LCD, fan, enclosure)
+  + [ ] Get started with Arduino (complete a couple of starter projects) **4 hours**
+  + [ ] Research and obtain necessary hardware (e.g., sensors, LCD, fan, enclosure) **4 hours**
 - November
-  + [ ] Build prototype that can at least plot the signal over time (save to file)
-  + [ ] Add LCD screen that displays signal
-  + [ ] Convert signal to AQI and display on LCD
+  + [ ] Build prototype that can at least plot the signal over time (save to file) **4 hours**
+  + [ ] Add LCD screen that displays signal **4 hours**
+  + [ ] Convert signal to AQI and display on LCD **4 hours**
 - December
-  + [ ] Calibrate and test AQI
-  + [ ] Connect hardware to internet
-  + [ ] Plot file online using data plotter
+  + [ ] Calibrate and test AQI **4 hours**
+  + [ ] Connect hardware to internet **4 hours**
+  + [ ] Plot file online using data plotter **4 hours**

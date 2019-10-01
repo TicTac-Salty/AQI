@@ -2,14 +2,6 @@
 
 *Explain* your idea **here**.
 
-List:
-1. j
-2.j
-3. jk
-- 
-- 
-- 
-
 # Why?
 
 Why do you want to do it?

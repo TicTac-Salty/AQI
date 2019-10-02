@@ -1,2 +1,2 @@
-# AQI
-An air quality monitor that reports local AQI, displays the value via LCD screen, and sends values wirelessly to a remote location. 
+# Humitity and Temp
+Trying to make a humitiy and temp monitier to see the diffrent humitiy and tep ast diffrent altitudes 
